@@ -1,0 +1,5 @@
+{
+  "name": "GeleNet: Transformer-Driven Salient Object Detection",
+  "description": "An interactive web application exploring the 'Salient Object Detection in Optical Remote Sensing Images Driven by Transformer' research paper. This app provides a detailed breakdown of the GeleNet model, its architecture, workflow, experimental outcomes, and future extensions.",
+  "requestFramePermissions": []
+}
