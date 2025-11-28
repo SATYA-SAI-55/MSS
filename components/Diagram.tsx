@@ -23,11 +23,11 @@ const Diagram: React.FC = () => {
       <div className="flex flex-col md:flex-row items-center justify-center gap-2">
         
         {/* Step 1: Input */}
-        <DiagramNode 
+        <a href="https://gele-inference-q6tqry58di4ybc2raneepc.streamlit.app/" target="_blank" rel="noopener noreferrer"><DiagramNode 
           icon={<ImageIcon />} 
           title="Input Image" 
           description="Optical Remote Sensing Image (ORSI)" 
-        />
+        /></a>
         <Arrow />
 
         {/* Step 2: Backbone */}
